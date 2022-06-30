@@ -1,0 +1,22 @@
+
+
+svg {
+  /* border: 1px solid black; */
+}
+
+.country {
+  fill: lightgreen;
+  stroke: black;
+  stroke-width: 0.5px;
+}
+
+.sphere {
+  fill: lightblue;
+  stroke: black;
+  stroke-width: 0.5px;
+}
+
+.country:hover {
+  fill:orange;
+}
+
